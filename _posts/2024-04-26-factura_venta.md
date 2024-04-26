@@ -1,5 +1,6 @@
 ---
 title: Como crear una factura de venta
+category: ayuda
 layout: post
 ---
 

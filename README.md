@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Sigem - Páginas de Ayuda
+title: Sigem
 permalink: /
 ---
 
