@@ -6,4 +6,5 @@ layout: post
 
 video sobre como crear una factura de venta en el sistema sigem.
 
-<video src="https://github.com/MennoSystems/sigem-wiki/raw/794227e64ddf3b797bd0ab6aab6481723f6c4094/assets/videos/factura-venta.mp4"></video>
+https://github.com/MennoSystems/sigem-wiki/assets/7155672/1b5f1469-5fa5-449c-811b-55c4b8169aeb
+
