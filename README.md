@@ -4,10 +4,11 @@ title: Sigem
 permalink: /
 ---
 
-## Bienvenido a la página de ayuda del sistema sigem
+### Bienvenido al manual de ayuda del sistema sigem
 
-Elija el tema que desee en el menú de la izquierda.
+Elija el tema que desee en el menú de la izquierda. 
 
+![image info](./assets/user-manual.png)
 
 
 
