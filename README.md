@@ -4,7 +4,9 @@ title: Sigem - Páginas de Ayuda
 permalink: /
 ---
 
-## Páginas de ayuda para el sistema sigem
+## Bienvenido a la página de ayuda del sistema sigem
+
+Elija el tema que desee en el menú de la izquierda.
 
 
 
